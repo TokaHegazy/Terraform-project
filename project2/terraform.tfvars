@@ -1,0 +1,8 @@
+region = "us-west-2"
+az = "us-west-2a"
+cidr_public_subnet = "10.0.1.0/24"
+cidr_vpc = "10.0.0.0/16"
+table_name = "region2_table"
+bucket_name = "west-2-bucket"
+ami = "ami-0c7843ce70e666e51"
+instance_type = "t2.micro"

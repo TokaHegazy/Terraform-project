@@ -1,0 +1,8 @@
+region = "us-east-1"
+az = "us-east-1a"
+cidr_public_subnet = "10.0.1.0/24"
+cidr_vpc = "10.0.0.0/16"
+table_name = "region1_table"
+bucket_name = "east-1-bucket"
+ami = "ami-02d7fd1c2af6eead0"
+instance_type = "t2.micro"
